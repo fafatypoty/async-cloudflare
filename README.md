@@ -8,6 +8,8 @@ manage DNS records, zones, and more. Whether you're automating website setups, m
 Cloudflare settings programmatically, \`**async-cloudflare**\` simplifies the process with easy-to-use Python classes and
 methods.
 
+[![Downloads](https://static.pepy.tech/badge/async-cloudflare)](https://pepy.tech/project/async-cloudflare)
+
 ## **Features**
 
 - **Asynchronous Design**: Utilize Python's async/await syntax for non-blocking API calls.
@@ -43,7 +45,7 @@ loop.run_until_complete(list_zones())
 
 ## Documentation
 
-For detailed documentation, including all classes and methods available, please refer to our [GitHub repository]().
+For detailed documentation, including all classes and methods available, please refer to our [GitHub repository](https://github.com/fafatypoty/async-cloudflare).
 
 ## License
 
